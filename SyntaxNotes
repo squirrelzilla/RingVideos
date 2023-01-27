@@ -1,0 +1,2 @@
+# To get the syntax to work properly, there is a certain order some things have to be in
+RingVideos all -u insertusername -p password --path insertfullpath -s mm/dd/yyyy -e mm/dd/yyyy
